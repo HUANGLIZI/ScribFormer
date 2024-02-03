@@ -1,6 +1,6 @@
-# ScribFormer
+# ScribFormer [TMI 2024]
 
-This repository is the official implementation of the paper ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation.
+This repository is the official implementation of the paper ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. [ResearchGate](https://www.researchgate.net/publication/377930252_ScribFormer_Transformer_Makes_CNN_Work_Better_for_Scribble-based_Medical_Image_Segmentation)
 
 ## Datasets
 
@@ -39,4 +39,16 @@ To evaluate the model, run this command:
 
 ```eval
 python test.py --bilinear --linear_layer --fold MAAGfold --exp <path_to_save_model> --save_prediction
+```
+
+## Citation
+
+```bash
+@article{li2023lvit,
+  title={ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation},
+  author={Li, Zihan and Zheng, Yuan and Shan, Dandan and Yang, Shuzhou and Li, Qingde and Wang, Beizhan and Hong, Qingqi and Shen, Dinggang},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2024},
+  publisher={IEEE}
+}
 ```
