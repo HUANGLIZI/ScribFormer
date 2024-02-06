@@ -1,6 +1,6 @@
 # ScribFormer [TMI 2024]
 
-This repository is the official implementation of the paper ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. [ResearchGate](https://www.researchgate.net/publication/377930252_ScribFormer_Transformer_Makes_CNN_Work_Better_for_Scribble-based_Medical_Image_Segmentation)
+This repository is the official implementation of the paper ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation. [Arxiv](https://arxiv.org/abs/2402.02029), [ResearchGate](https://www.researchgate.net/publication/377930252_ScribFormer_Transformer_Makes_CNN_Work_Better_for_Scribble-based_Medical_Image_Segmentation)
 
 ## Datasets
 
